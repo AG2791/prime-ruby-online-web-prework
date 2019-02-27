@@ -5,7 +5,7 @@ def prime?(int)
     return false 
   else 
     for x in 2..(int-1)
-    if (int % x)==0 
+    if (int % x)== 0 
       return false
     end
   end
