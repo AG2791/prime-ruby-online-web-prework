@@ -1,5 +1,5 @@
 def prime?(int)
-  int
+  if int 
 end
 
   
